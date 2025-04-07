@@ -38,10 +38,11 @@ The objective is to highlight systemic weaknesses and operational patterns acros
 
 #### 📈 Page 1: Executive Overview
 Insight: This page delivers a high-level diagnostic summary to help stakeholders rapidly identify system-wide trends and select which risk area to explore further in the following pages.
-
+![image alt](https://github.com/venkatagovindneelapu/Post-COVID-Risk-Analysis-in-U.S.-Commercial-Banking-2023-2024-/blob/main/asserts/Overview%20Page.png?raw=true)
 ---
 
-#### 📊 Page 2: Asset Trends & Shrinkage Risk
+### 📈 **Asset Trends & Shrinkage Risk**
+![image alt](https://github.com/venkatagovindneelapu/Post-COVID-Risk-Analysis-in-U.S.-Commercial-Banking-2023-2024-/blob/main/asserts/Asset%20Trends%20&%20Shrinkage%20Risk.png?raw=true)
 
 **Display Name:** Asset Performance Analysis: Growth vs. Shrinkage
 
@@ -60,7 +61,8 @@ Insight: This page delivers a high-level diagnostic summary to help stakeholders
 
 ---
 
-#### 🌐 Page 3: Domestic Exposure & Branch Strategy
+### 🌍 **Domestic Exposure & Branch Strategy**
+![image alt](https://github.com/venkatagovindneelapu/Post-COVID-Risk-Analysis-in-U.S.-Commercial-Banking-2023-2024-/blob/main/asserts/Domestic%20Exposure%20&%20Branch%20Strategy.png?raw=true)
 
 **Focus Area:** Foreign Exposure & Branch Network Imbalance
 
@@ -76,7 +78,8 @@ Insight: This page delivers a high-level diagnostic summary to help stakeholders
 
 ---
 
-#### 🏛️ Page 4: Capital Concentration & Systemic Risk
+### 🏦 **Capital Concentration & Systemic Risk**
+![image alt](https://github.com/venkatagovindneelapu/Post-COVID-Risk-Analysis-in-U.S.-Commercial-Banking-2023-2024-/blob/main/asserts/Capital%20Concentration%20&%20Systemic%20Risk.png?raw=true)
 
 **Display Name:** Capital Concentration & Systemic Risk
 
@@ -135,24 +138,6 @@ Each visual and KPI is designed to help analysts, regulators, and strategists ma
 ---
 
 
-## 📊 Dashboard Previews
 
-### 🧾 **Executive Overview**
-![image alt](https://github.com/venkatagovindneelapu/Post-COVID-Risk-Analysis-in-U.S.-Commercial-Banking-2023-2024-/blob/main/asserts/Overview%20Page.png?raw=true)
-
----
-
-### 📈 **Asset Trends & Shrinkage Risk**
-![image alt](https://github.com/venkatagovindneelapu/Post-COVID-Risk-Analysis-in-U.S.-Commercial-Banking-2023-2024-/blob/main/asserts/Asset%20Trends%20&%20Shrinkage%20Risk.png?raw=true)
-
----
-
-### 🌍 **Domestic Exposure & Branch Strategy**
-![image alt](https://github.com/venkatagovindneelapu/Post-COVID-Risk-Analysis-in-U.S.-Commercial-Banking-2023-2024-/blob/main/asserts/Domestic%20Exposure%20&%20Branch%20Strategy.png?raw=true)
-
----
-
-### 🏦 **Capital Concentration & Systemic Risk**
-![image alt](https://github.com/venkatagovindneelapu/Post-COVID-Risk-Analysis-in-U.S.-Commercial-Banking-2023-2024-/blob/main/asserts/Capital%20Concentration%20&%20Systemic%20Risk.png?raw=true)
 
 
