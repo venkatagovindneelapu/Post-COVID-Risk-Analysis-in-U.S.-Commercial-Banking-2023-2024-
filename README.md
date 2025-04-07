@@ -138,7 +138,7 @@ Each visual and KPI is designed to help analysts, regulators, and strategists ma
 ## 📊 Dashboard Previews
 
 ### 🧾 **Executive Overview**
-![image alt](asserts/Overview Page.png)
+![image alt]([asserts/Overview Page.png](https://github.com/venkatagovindneelapu/Post-COVID-Risk-Analysis-in-U.S.-Commercial-Banking-2023-2024-/blob/main/asserts/Overview%20Page.png?raw=true))
 
 ---
 
