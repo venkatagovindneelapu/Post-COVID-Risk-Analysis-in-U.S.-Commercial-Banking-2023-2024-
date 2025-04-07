@@ -143,16 +143,16 @@ Each visual and KPI is designed to help analysts, regulators, and strategists ma
 ---
 
 ### 📈 **Asset Trends & Shrinkage Risk**
-![image alt]()
+![image alt](https://github.com/venkatagovindneelapu/Post-COVID-Risk-Analysis-in-U.S.-Commercial-Banking-2023-2024-/blob/main/asserts/Asset%20Trends%20&%20Shrinkage%20Risk.png?raw=true)
 
 ---
 
 ### 🌍 **Domestic Exposure & Branch Strategy**
-![image alt]()
+![image alt](https://github.com/venkatagovindneelapu/Post-COVID-Risk-Analysis-in-U.S.-Commercial-Banking-2023-2024-/blob/main/asserts/Domestic%20Exposure%20&%20Branch%20Strategy.png?raw=true)
 
 ---
 
 ### 🏦 **Capital Concentration & Systemic Risk**
-![image alt]()
+![image alt](https://github.com/venkatagovindneelapu/Post-COVID-Risk-Analysis-in-U.S.-Commercial-Banking-2023-2024-/blob/main/asserts/Capital%20Concentration%20&%20Systemic%20Risk.png?raw=true)
 
 
