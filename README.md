@@ -135,16 +135,24 @@ Each visual and KPI is designed to help analysts, regulators, and strategists ma
 ---
 
 
-### 🗂️ Executive Overview
-![Overview Page](assets/Overview%20Page.png)
+## 📊 Dashboard Previews
 
-### 📈 Asset Trends & Shrinkage Risk
-![Asset Trends](assets/Asset%20Trends%20%26%20Shrinkage%20Risk.png)
+### 🧾 **Executive Overview**
+<img src="assets/Overview%20Page.png" alt="Overview Page" width="100%">
 
-### 🌐 Domestic Exposure & Branch Strategy
-![Domestic Exposure](assets/Domestic%20Exposure%20%26%20Branch%20Strategy.png)
+---
 
-### 🏦 Capital Concentration & Systemic Risk
-![Capital Risk](assets/Capital%20Concentration%20%26%20Systemic%20Risk.png)
+### 📈 **Asset Trends & Shrinkage Risk**
+<img src="assets/Asset%20Trends%20%26%20Shrinkage%20Risk.png" alt="Asset Trends & Shrinkage Risk" width="100%">
+
+---
+
+### 🌍 **Domestic Exposure & Branch Strategy**
+<img src="assets/Domestic%20Exposure%20%26%20Branch%20Strategy.png" alt="Domestic Exposure & Branch Strategy" width="100%">
+
+---
+
+### 🏦 **Capital Concentration & Systemic Risk**
+<img src="assets/Capital%20Concentration%20%26%20Systemic%20Risk.png" alt="Capital Concentration & Systemic Risk" width="100%">
 
 
