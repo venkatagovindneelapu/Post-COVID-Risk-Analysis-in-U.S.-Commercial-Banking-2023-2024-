@@ -38,12 +38,10 @@ The objective is to highlight systemic weaknesses and operational patterns acros
 
 #### 📈 Page 1: Executive Overview
 Insight: This page delivers a high-level diagnostic summary to help stakeholders rapidly identify system-wide trends and select which risk area to explore further in the following pages.
-![Overview Page](/assets/Overview Page.png)
+
 ---
 
 #### 📊 Page 2: Asset Trends & Shrinkage Risk
-
-![Asset Trends](/assets/Asset Trends & Shrinkage Risk.png)
 
 **Display Name:** Asset Performance Analysis: Growth vs. Shrinkage
 
@@ -64,8 +62,6 @@ Insight: This page delivers a high-level diagnostic summary to help stakeholders
 
 #### 🌐 Page 3: Domestic Exposure & Branch Strategy
 
-![Domestic Exposure](/assets/Domestic Exposure & Branch Strategy.png)
-
 **Focus Area:** Foreign Exposure & Branch Network Imbalance
 
 **Charts & Cards:**
@@ -81,8 +77,6 @@ Insight: This page delivers a high-level diagnostic summary to help stakeholders
 ---
 
 #### 🏛️ Page 4: Capital Concentration & Systemic Risk
-
-![Capital Concentration](/assets/Capital Concentration & Systemic Risk.png)
 
 **Display Name:** Capital Concentration & Systemic Risk
 
@@ -141,4 +135,15 @@ Each visual and KPI is designed to help analysts, regulators, and strategists ma
 ---
 
 
+## 📄 Executive Overview
+![Overview Page](assets/Overview%20Page.png)
+
+## 📈 Asset Trends & Shrinkage Risk
+![Asset Trends](assets/Asset%20Trends%20%26%20Shrinkage%20Risk.png)
+
+## 🌍 Domestic Exposure & Branch Strategy
+![Domestic Exposure](assets/Domestic%20Exposure%20%26%20Branch%20Strategy.png)
+
+## 🏦 Capital Concentration & Systemic Risk
+![Capital Risk](assets/Capital%20Concentration%20%26%20Systemic%20Risk.png)
 
